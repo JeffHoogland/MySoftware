@@ -1,2 +1,2 @@
 # MySoftware
-A description about my software
+An example repository for a GitHub Tutorial
